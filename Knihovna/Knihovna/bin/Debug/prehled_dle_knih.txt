@@ -1,0 +1,45 @@
+### Přehled dle knih ###
+1000 Bible 
+1001 Eragon - Christopher Paolini
+1002 Eragon - Christopher Paolini
+|\
+| 21.4.2020 >> 004 David Štítný
+|\
+| 21.4.2020 << 004 David Štítný
+1003 Eldest - Christopher Paolini
+|\
+| 21.4.2020 >> 002 Aneta Kolomazá
+|\
+| 21.4.2020 << 002 Aneta Kolomazá
+1004 Brisingr - Christopher Paolini
+|\
+| 21.4.2020 >> 004 David Štítný
+|\
+| 21.4.2020 << 004 David Štítný
+1005 Inheritance - Christopher Paolini
+|\
+| 21.4.2020 >> 004 David Štítný
+|\
+| 21.4.2020 << 004 David Štítný
+1006 Budoucnost - Dmitry Glukhovsky
+1007 Budoucnost - Dmitry Glukhovsky
+|\
+| 21.4.2020 >> 002 Aneta Kolomazá
+|\
+| 21.4.2020 << 002 Aneta Kolomazá
+1008 Text - Dmitry Glukhovsky
+1009 Povídky o vlasti - Dmitry Glukhovsky
+|\
+| 21.4.2020 >> 003 Viktorín Kornel
+|\
+| 21.4.2020 << 003 Viktorín Kornel
+|\
+| 21.4.2020 >> 002 Aneta Kolomazá
+|\
+| 21.4.2020 << 002 Aneta Kolomazá
+1010 S každou padající hvězdou - Sungdžu Lee
+|\
+| 21.4.2020 >> 001 Jan Novák
+|\
+| 21.4.2020 << 001 Jan Novák
+1011 Ztracený ráj - John Milton

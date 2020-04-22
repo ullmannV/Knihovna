@@ -1,0 +1,37 @@
+### Přehled dle čtenářů ###
+001 Jan Novák
+|\
+| 21.4.2020 >> 1010 S každou padající hvězdou - Sungdžu Lee
+|\
+| 21.4.2020 << 1010 S každou padající hvězdou - Sungdžu Lee
+002 Aneta Kolomazá
+|\
+| 21.4.2020 >> 1007 Budoucnost - Dmitry Glukhovsky
+|\
+| 21.4.2020 << 1007 Budoucnost - Dmitry Glukhovsky
+|\
+| 21.4.2020 >> 1003 Eldest - Christopher Paolini
+|\
+| 21.4.2020 << 1003 Eldest - Christopher Paolini
+|\
+| 21.4.2020 >> 1009 Povídky o vlasti - Dmitry Glukhovsky
+|\
+| 21.4.2020 << 1009 Povídky o vlasti - Dmitry Glukhovsky
+003 Viktorín Kornel
+|\
+| 21.4.2020 >> 1009 Povídky o vlasti - Dmitry Glukhovsky
+|\
+| 21.4.2020 << 1009 Povídky o vlasti - Dmitry Glukhovsky
+004 David Štítný
+|\
+| 21.4.2020 >> 1005 Inheritance - Christopher Paolini
+|\
+| 21.4.2020 << 1005 Inheritance - Christopher Paolini
+|\
+| 21.4.2020 >> 1004 Brisingr - Christopher Paolini
+|\
+| 21.4.2020 << 1004 Brisingr - Christopher Paolini
+|\
+| 21.4.2020 >> 1002 Eragon - Christopher Paolini
+|\
+| 21.4.2020 << 1002 Eragon - Christopher Paolini

@@ -1,0 +1,11 @@
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\bin\Debug\Knihovna.exe.config
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\bin\Debug\Knihovna.exe
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\bin\Debug\Knihovna.pdb
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.csprojAssemblyReference.cache
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.Form1.resources
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.Properties.Resources.resources
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.csproj.GenerateResource.cache
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.exe
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.pdb
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.AddItemForm.resources
+C:\Users\Vojta\source\repos\Knihovna\Knihovna\obj\Debug\Knihovna.RemoveItemForm.resources
